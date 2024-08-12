@@ -76,26 +76,26 @@ h1 {
     text-transform: uppercase;
     color: white;
     font-family: cooper;
-    font-size: 45px;
-    padding-bottom: 3%;
+    font-size: 38px;
+    padding-bottom: 2.5%;
 }
 
 p {
     color: white;
     font-family: Comic Sans MS;
-    font-size: 17px;
+    font-size: 15px;
 }
 
 button {
  color: orangered;
  font-size: 17px;
  background: none;
- border: 3px solid orangered;
- border-top-left-radius: 45px;
- border-bottom-right-radius: 45px;
- padding: 17px;
- margin: 10px;
- margin-top: 10px;
+ border: 2px solid orangered;
+ border-top-left-radius: 14%;
+ border-bottom-right-radius: 14%;
+ padding: 2%;
+ margin-left: 4%;
+ margin-top: 2%;
  cursor: pointer;
 }
 
